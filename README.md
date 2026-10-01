@@ -56,7 +56,6 @@ This project contributes to my broader research interests in:
 * Medical image analysis
 * Cervical cancer screening
 * Machine learning for healthcare
-* Computer-aided diagnosis
 
 ## Limitations
 
